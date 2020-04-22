@@ -1,0 +1,1 @@
+System.register(["./p-879ac064.system.js"],(function(){"use strict";var t,e;return{setters:[function(s){t=s.p;e=s.b}],execute:function(){t().then((function(t){return e([["p-7yf5ejef.system",[[1,"smart-complete",{backend:[1],throttle:[2],limit:[2],searchresults:[32],dictionaryresults:[32],status:[32]}]]]],t)}))}}}));
